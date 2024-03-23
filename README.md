@@ -1,6 +1,4 @@
 # US-Adult-Census-1996
-# US Adult Census Income Dataset - Machine Learning Analysis
-
 ## Description
 This repository contains a machine learning analysis of the US Adult Census Income Dataset from the UCI Machine Learning Repository. The dataset contains demographic and employment-related information collected from the 1994 US Census. The goal of this analysis is to build and evaluate machine learning models for predicting whether an individual's annual income exceeds $50,000 based on various features.
 
